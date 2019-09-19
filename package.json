@@ -1,0 +1,24 @@
+{
+  "name": "Interview_Questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobprimehd/Interview_Questions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobprimehd/Interview_Questions/issues"
+  },
+  "homepage": "https://github.com/jacobprimehd/Interview_Questions#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
